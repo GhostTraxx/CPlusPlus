@@ -4,7 +4,7 @@
 #include "framework.h"
 #include "CPlusPlusOne.h"
 
-constexpr auto MAX_LOADSTRING = 200;
+constexpr auto MAX_LOADSTRING = 100;
 
 // Global Variables:
 HINSTANCE hInst;                                // current instance
